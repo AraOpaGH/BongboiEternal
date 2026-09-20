@@ -1,4 +1,4 @@
-# চিরায়ত বাংলা সাহিত্য
+# বাংলা সাহিত্য
 <p>
  <img width="100%" alt="Bengal King_s Palace Library" src="https://github.com/user-attachments/assets/a14b0245-dd79-4a34-b086-01643aedba06" />
 </p>
