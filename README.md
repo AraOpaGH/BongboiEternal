@@ -13,4 +13,6 @@
 
 ---
 
-License **CC-BY-NC** [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-orange.svg)](https://creativecommons.org/licenses/by-nc/4.0/) You are free to: share and remix but you must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You may not use the material for commercial purposes. 
+License **CC-BY-NC** [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-orange.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+You are free to: share and remix but you must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You may not use the material for commercial purposes. 
